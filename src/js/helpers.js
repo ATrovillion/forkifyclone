@@ -1,4 +1,3 @@
-import { async } from 'regenerator-runtime';
 import { TIMEOUT_SEC } from './config.js';
 /* eslint-disable no-useless-catch */
 const timeout = function (s) {
