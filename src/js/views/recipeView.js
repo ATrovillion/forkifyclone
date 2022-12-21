@@ -75,7 +75,7 @@ class RecipeView {
   }
 
   #generateMarkup() {
-    console.log(this.#data);
+    // console.log(this.#data);
 
     return `
       <figure class="recipe__fig">
