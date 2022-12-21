@@ -7,6 +7,10 @@ class RecipeView {
 
   #data;
 
+  #errorMessage = 'We could not find that recipe. Please try another one!';
+
+  #successMessage = '';
+
   render(data) {
     this.#data = data;
     const markup = this.#generateMarkup();
@@ -27,7 +31,41 @@ class RecipeView {
       </div>
     `;
 
-    this.#parentElement.innerHTML = '';
+    this.#clear();
+    this.#parentElement.insertAdjacentHTML('afterbegin', markup);
+  }
+
+  // eslint-disable-next-line class-methods-use-this
+  renderError(message = this.#errorMessage) {
+    const markup = `
+    <div class="error">
+    <div>
+      <svg>
+        <use href="${icons}#icon-alert-triangle"></use>
+      </svg>
+    </div>
+      <p>${message}</p>
+    </div>
+    `;
+
+    this.#clear();
+    this.#parentElement.insertAdjacentHTML('afterbegin', markup);
+  }
+
+  renderMessage(message = this.#successMessage) {
+    const markup = `
+    <div class="recipe">
+    <div class="message">
+      <div>
+        <svg>
+          <use href="${icons}#icon-smile"></use>
+        </svg>
+      </div>
+      <p>${message}</p>
+    </div>
+    `;
+
+    this.#clear();
     this.#parentElement.insertAdjacentHTML('afterbegin', markup);
   }
 
