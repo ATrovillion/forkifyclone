@@ -17,7 +17,7 @@
 89C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\src\sass\_upload.scss133105861932263646 0
 117C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\htmlparser2\lib\FeedHandler.d.ts.map133159444527763672 0
 98C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\typescript\lib\ko133159451562020212 1
-72C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\dist133167203480160743 1
+72C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\dist133167221949396601 1
 105C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\escalade\sync\index.d.ts133159444527846115 0
 95C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\terser\LICENSE133159444522885686 0
 112C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\weak-lru-cache\rollup.config.js133159444526446627 0
@@ -38,14 +38,14 @@
 138C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\@typescript-eslint\types\dist\generated\ast-spec.d.ts.map133159451545352468 0
 88C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\yallist133159451543845533 1
 126C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\core-js-pure\features\set\is-disjoint-from.js133159451570574774 0
-78C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\.gitignore133160371021888282 0
+78C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\.gitignore133167206561634793 0
 108C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\ajv\scripts\compile-dots.js133159451548284460 0
 119C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\es-abstract\2016\AdvanceStringIndex.js133159451549918379 0
 91C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\domhandler133159444527044293 1
 108C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\js-sdsl\dist\esm\index.d.ts133159451545601817 0
 143C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\@typescript-eslint\scope-manager\dist\lib\es2019.string.js.map133159451555651977 0
 112C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\cosmiconfig\dist\index.d.ts.map133159444529911335 0
-88C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\src\js\controller.js133167193455121428 0
+88C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\src\js\controller.js133167219138642629 0
 112C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\core-js\stable\reflect\index.js133159577820603260 0
 107C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\picomatch\lib\picomatch.js133159444834914355 0
 123C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\es-abstract\2017\FromPropertyDescriptor.js133159451557326037 0
@@ -175,7 +175,7 @@
 142C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\@babel\runtime-corejs3\helpers\esm\objectWithoutProperties.js133159451558800602 0
 132C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\eslint-plugin-jsx-a11y\lib\util\implicitRoles\li.js133159451552855552 0
 87C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\parcel133159444527733659 1
-74C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\src\js133166450669383220 1
+74C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\src\js133167206568219915 1
 136C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\react-refresh\cjs\react-refresh-babel.production.min.js133159444526094117 0
 130C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\aria-query\lib\etc\roles\abstract\landmarkRole.js133159451551197937 0
 76C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\src\sass133105861932263646 1
@@ -203,7 +203,7 @@
 110C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\sass\types\legacy\render.d.ts133159444838598760 0
 105C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\es-abstract\2016\GetV.js133159451559003783 0
 127C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\es-abstract\2019\EnumerableOwnPropertyNames.js133159451556683157 0
-95C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\src\js\views\previewView.js133167201016900876 0
+95C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\src\js\views\previewView.js133167206568249936 0
 114C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\@parcel\workers\src\WorkerFarm.js133159444531283636 0
 99C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\debug\package.json133159451544511452 0
 109C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\to-fast-properties\readme.md133159451543516632 0
@@ -260,7 +260,7 @@
 137C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\@babel\runtime-corejs3\core-js-stable\instance\splice.js133159451548497755 0
 93C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\src\sass\_components.scss133105861931607041 0
 108C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\text-table\example\table.js133159451545224277 0
-95C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\src\js\views\resultsView.js133167203479617698 0
+95C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\src\js\views\resultsView.js133167206568259914 0
 136C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\eslint-plugin-react\lib\rules\forbid-component-props.js133159451546442936 0
 142C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\@babel\runtime-corejs3\core-js\symbol\is-concat-spreadable.js133159451556292293 0
 114C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\eslint-plugin-import\package.json133159451550766148 0
@@ -364,7 +364,7 @@
 127C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\es-abstract\2019\CompletePropertyDescriptor.js133159451554380969 0
 109C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\core-js\internals\is-pure.js133159577821259412 0
 108C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\source-map-js\source-map.js133159444835260424 0
-83C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\src\js\model.js133166450669383220 0
+83C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\src\js\model.js133167221949008926 0
 110C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\@nodelib\fs.scandir\out\types133159451546854434 1
 111C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\xxhash-wasm\cjs\xxhash-wasm.js133159444522685846 0
 117C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\@swc\helpers\lib\_read_only_error.js133159444532157222 0
@@ -405,10 +405,10 @@
 107C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\picocolors\picocolors.d.ts133159444526556624 0
 111C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\js-yaml\lib\schema\failsafe.js133159451545546543 0
 96C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\xxhash-wasm\umd133159444527134327 1
-80C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\src\js\views133167194494706353 1
+80C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\src\js\views133167206568249936 1
 89C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\svgo\bin133159444522875120 1
 115C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\es-abstract\2021\HasOwnProperty.js133159451559291224 0
-97C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\src\js\views\bookmarksView.js133167201288799955 0
+97C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\src\js\views\bookmarksView.js133167218190746553 0
 123C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\eslint-plugin-react\lib\rules\no-unsafe.js133159451551985821 0
 95C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\is-binary-path133159444835088702 1
 129C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\core-js-pure\actual\string\virtual\trim-right.js133159451578786238 0
@@ -454,7 +454,7 @@
 121C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\core-js-pure\modules\es.string.strike.js133159451562631081 0
 117C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\object.assign\test\implementation.js133159451547302678 0
 122C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\es-abstract\2020\DefinePropertyOrThrow.js133159451556362288 0
-88C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\src\js\views\View.js133167200335094178 0
+88C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\src\js\views\View.js133167206568229925 0
 120C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\@typescript-eslint\utils\dist\ts-eslint133159451555342929 1
 85C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\src\img\icons.svg133105861930956138 0
 107C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\yaml\browser\dist\types.js133159444531218593 0
@@ -3151,7 +3151,7 @@
 115C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\caniuse-lite\data\features\sdch.js133159444538883888 0
 134C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\eslint-plugin-html\node_modules\htmlparser2\README.md133159451548078629 0
 111C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\typescript\loc\lcl\ITA\Targets133159451564808845 1
-95C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\dist\index.f7626f62.css.map133167189908353588 0
+95C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\dist\index.f7626f62.css.map133167217955139948 0
 125C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\typescript\loc\lcl\ITA\TypeScriptDebugEngine133159451564578852 1
 143C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\@typescript-eslint\eslint-plugin\dist\rules\no-extra-parens.js133159451550756149 0
 95C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\csso\lib\clean133159444531612958 1
@@ -8412,7 +8412,7 @@
 124C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\@babel\core\lib\transformation\file\file.js133159451552203958 0
 158C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\eslint-plugin-react\node_modules\resolve\test\resolver\multirepo\package.json133159451552256574 0
 164C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\eslint-plugin-react\node_modules\resolve\test\resolver\multirepo\packages\package-a133159451552276570 1
-93C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\dist\favicon.8b2f57bf.png133167189908323583 0
+93C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\dist\favicon.8b2f57bf.png133167217955263710 0
 177C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\eslint-plugin-react\node_modules\resolve\test\resolver\multirepo\packages\package-a\package.json133159451552289343 0
 108C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\css-select\lib\compile.d.ts133159444530488339 0
 161C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\eslint-plugin-react\node_modules\resolve\test\resolver\missing_main\package.json133159451552215301 0
@@ -16339,7 +16339,7 @@
 116C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\core-js\es\typed-array\to-string.js133159577827989731 0
 126C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\core-js\es\typed-array\uint8-clamped-array.js133159577828759718 0
 113C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\core-js\es\typed-array\values.js133159577829175224 0
-83C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\dist\index.html133167189908485963 0
+83C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\dist\index.html133167217955099957 0
 116C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\core-js\es\symbol\async-iterator.js133159577808142068 0
 113C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\core-js\es\symbol\description.js133159577811833697 0
 105C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\core-js\es\symbol\for.js133159577817864229 0
@@ -16465,7 +16465,7 @@
 108C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\core-js\es\instance\keys.js133159577822076665 0
 142C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\@typescript-eslint\visitor-keys\_ts3.4\dist\visitor-keys.d.ts133159451546533307 0
 110C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\core-js\es\instance\repeat.js133159577824786462 0
-91C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\dist\icons.21bad73c.svg133167189908253581 0
+91C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\dist\icons.21bad73c.svg133167217955273712 0
 129C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\caniuse-lite\data\features\css-featurequeries.js133159444534573850 0
 111C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\core-js\es\instance\reverse.js133159577825077611 0
 108C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\@babel\helpers\lib\index.js133159451548955243 0
@@ -20541,9 +20541,9 @@
 93C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\.bin\tsc.ps1133159451580421423 0
 94C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\.bin\tsserver133159451580421423 0
 98C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\node_modules\.bin\tsserver.cmd133159451580421423 0
-91C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\dist\icons.dfd7a6db.svg133167189908313582 0
+91C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\dist\icons.dfd7a6db.svg133167217955099957 0
 90C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\dist\index.62406edb.js133159444854987705 0
-90C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\dist\index.e37f48ea.js133167203480125843 0
-94C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\dist\index.e37f48ea.js.map133167203480156057 0
-91C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\dist\index.f7626f62.css133167189908323583 0
-90C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\dist\logo.726d37a8.png133167189908253581 0
+90C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\dist\index.e37f48ea.js133167221949356585 0
+94C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\dist\index.e37f48ea.js.map133167221949386590 0
+91C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\dist\index.f7626f62.css133167217955109953 0
+90C:\Users\aaron\Coding\udemy_js\javascript-course\18-forkify\starter\dist\logo.726d37a8.png133167217955109953 0

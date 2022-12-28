@@ -8,6 +8,13 @@ class BookmarksView extends View {
 
   _successMessage = '';
 
+  // Error arising because of sequencing of bookmarks load
+  // Following method fixes
+  // eslint-disable-next-line class-methods-use-this
+  addHandlerRender(handler) {
+    window.addEventListener('load', handler);
+  }
+
   // eslint-disable-next-line class-methods-use-this
   _generateMarkup() {
     return this._data
